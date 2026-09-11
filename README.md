@@ -1,5 +1,7 @@
 # The Alchemist Auction
 
+NOTE: This repository contains just the code for the game for showcasing purposes! GitHub was not used during the development process since I was the only developer for this project!
+
 A fantasy strategy RPG where players bid, battle, steal, and survive against the deceptive alchemist mastermind, Dr. deFraud, and his partner Fleece deFraud.
 
 Built in Unity with C#, Alchemist Auction combines auction-based resource management, probability-driven AI behavior, potion crafting systems, mini-games, and multi-phase boss encounters into a single gameplay experience.
